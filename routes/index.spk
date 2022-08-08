@@ -1,0 +1,4 @@
+title "hello world";
+
+h1 style [textColor-black textSize-96] "Hey universe!";
+h1 style [textColor-blue] "%[url|color]";
